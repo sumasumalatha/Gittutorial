@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"hdhgdfh");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -26,4 +28,7 @@
 }
 
 
+- (IBAction)btnGit:(id)sender {
+    
+}
 @end
